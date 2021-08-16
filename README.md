@@ -1,4 +1,4 @@
-# aws-static-website-demo
+## Amazon Web Services Static Website Demo
 Making a Static Website Using AWS S3 Buckets
 
 # Video Link 
